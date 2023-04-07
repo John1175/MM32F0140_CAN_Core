@@ -8,6 +8,15 @@
   )
 
 
+  (wire (pts (xy 80.01 34.29) (xy 113.03 34.29))
+    (stroke (width 0) (type default))
+    (uuid addab549-1c4f-4a7c-bb28-101da523814c)
+  )
+  (wire (pts (xy 80.01 31.75) (xy 113.03 31.75))
+    (stroke (width 0) (type default))
+    (uuid f8b4b68e-f271-4406-b897-006d0f5d1d38)
+  )
+
   (sheet (at 31.75 85.09) (size 45.72 36.83) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
@@ -35,6 +44,14 @@
     (property "Sheetfile" "USB.kicad_sch" (at 113.03 61.5446 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
+    (pin "UART3_RX" output (at 113.03 34.29 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid fd558867-1cc2-44d8-8493-2a563dbdef13)
+    )
+    (pin "UART3_TX" input (at 113.03 31.75 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 349c12f7-45bd-4f80-993d-f6f12a2a7e9e)
+    )
     (instances
       (project "MM32F0140_CAN_Core"
         (path "/325db86e-5883-4f53-9728-9eee822c47e5" (page "3"))
@@ -51,6 +68,14 @@
     )
     (property "Sheetfile" "Core.kicad_sch" (at 31.75 61.5446 0)
       (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (pin "UART3_RX" input (at 80.01 34.29 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 684f520f-29e7-4653-9318-d597db1d30c6)
+    )
+    (pin "UART3_TX" output (at 80.01 31.75 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid be4893f1-7c36-425d-9a19-77ccfaaea89b)
     )
     (instances
       (project "MM32F0140_CAN_Core"
