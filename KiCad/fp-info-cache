@@ -1,435 +1,211 @@
-103922016887253
-Resistor_SMD
-R_0201_0603Metric
-Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
-resistor
+50427501664879
+John1175
+3F07
+
+
+0
+5
+5
+John1175
+C_0603_1608Metric_Pad1.05x0.95mm_HandSolder
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+John1175
+C_0805_2012Metric
+Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+John1175
+C_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+John1175
+D_SOD-323_HandSoldering
+SOD-323
+SOD-323
+0
+2
+2
+John1175
+JST_S2B-PH-SM4-TB
+
+
 0
 4
-2
-Resistor_SMD
-R_0201_0603Metric_Pad0.64x0.40mm_HandSolder
-Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
 4
-2
-Resistor_SMD
-R_0402_1005Metric
-Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
-resistor
+John1175
+LCD_IPS_1.54_12
+
+
+0
+12
+12
+John1175
+LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+LED handsolder
 0
 2
 2
-Resistor_SMD
-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder
-Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+John1175
+MountingHole_2.5mm
+Mounting Hole 2.5mm, no annular
+mounting hole 2.5mm no annular
+0
+0
+0
+John1175
+QFN50P300X300X80-17N
+
+
+0
+17
+17
+John1175
+R_0603_1608Metric_Pad1.05x0.95mm_HandSolder
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 resistor handsolder
 0
 2
 2
-Resistor_SMD
-R_0603_1608Metric
-Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-Resistor_SMD
-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
-Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+John1175
+R_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
 resistor handsolder
 0
 2
 2
-Resistor_SMD
-R_0612_1632Metric
-Resistor SMD 0612 (1632 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20019/rcwe.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-Resistor_SMD
-R_0612_1632Metric_Pad1.18x3.40mm_HandSolder
-Resistor SMD 0612 (1632 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.vishay.com/docs/20019/rcwe.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-Resistor_SMD
-R_0805_2012Metric
-Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-Resistor_SMD
+John1175
 R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
 Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 resistor handsolder
 0
 2
 2
-Resistor_SMD
-R_0815_2038Metric
-Resistor SMD 0815 (2038 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.susumu.co.jp/common/pdf/n_catalog_partition07_en.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-Resistor_SMD
-R_0815_2038Metric_Pad1.20x4.05mm_HandSolder
-Resistor SMD 0815 (2038 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.susumu.co.jp/common/pdf/n_catalog_partition07_en.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-Resistor_SMD
-R_01005_0402Metric
-Resistor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator
-resistor
-0
-4
-2
-Resistor_SMD
-R_01005_0402Metric_Pad0.57x0.30mm_HandSolder
-Resistor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-4
-2
-Resistor_SMD
-R_1020_2550Metric
-Resistor SMD 1020 (2550 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20019/rcwe.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-Resistor_SMD
-R_1020_2550Metric_Pad1.33x5.20mm_HandSolder
-Resistor SMD 1020 (2550 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.vishay.com/docs/20019/rcwe.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-Resistor_SMD
-R_1206_3216Metric
-Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-Resistor_SMD
-R_1206_3216Metric_Pad1.30x1.75mm_HandSolder
-Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-Resistor_SMD
-R_1210_3225Metric
-Resistor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-Resistor_SMD
-R_1210_3225Metric_Pad1.30x2.65mm_HandSolder
-Resistor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-Resistor_SMD
-R_1218_3246Metric
-Resistor SMD 1218 (3246 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20035/dcrcwe3.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-Resistor_SMD
-R_1218_3246Metric_Pad1.22x4.75mm_HandSolder
-Resistor SMD 1218 (3246 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.vishay.com/docs/20035/dcrcwe3.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-Resistor_SMD
-R_1812_4532Metric
-Resistor SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-Resistor_SMD
-R_1812_4532Metric_Pad1.30x3.40mm_HandSolder
-Resistor SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-Resistor_SMD
-R_2010_5025Metric
-Resistor SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-Resistor_SMD
-R_2010_5025Metric_Pad1.40x2.65mm_HandSolder
-Resistor SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-Resistor_SMD
-R_2512_6332Metric
-Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-Resistor_SMD
-R_2512_6332Metric_Pad1.40x3.35mm_HandSolder
-Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-Resistor_SMD
-R_2816_7142Metric
-Resistor SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-Resistor_SMD
-R_2816_7142Metric_Pad3.20x4.45mm_HandSolder
-Resistor SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-Resistor_SMD
-R_4020_10251Metric
-Resistor SMD 4020 (10251 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://datasheet.octopart.com/HVC0603T5004FET-Ohmite-datasheet-26699797.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-Resistor_SMD
-R_4020_10251Metric_Pad1.65x5.30mm_HandSolder
-Resistor SMD 4020 (10251 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://datasheet.octopart.com/HVC0603T5004FET-Ohmite-datasheet-26699797.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-Resistor_SMD
-R_Array_Concave_2x0603
-Thick Film Chip Resistor Array, Wave soldering, Vishay CRA06P (see cra06p.pdf)
-resistor array
-0
-4
-4
-Resistor_SMD
-R_Array_Concave_4x0402
-Thick Film Chip Resistor Array, Wave soldering, Vishay CRA04P (see cra04p.pdf)
-resistor array
-0
-8
-8
-Resistor_SMD
-R_Array_Concave_4x0603
-Thick Film Chip Resistor Array, Wave soldering, Vishay CRA06P (see cra06p.pdf)
-resistor array
-0
-8
-8
-Resistor_SMD
-R_Array_Convex_2x0402
-Chip Resistor Network, ROHM MNR02 (see mnr_g.pdf)
-resistor array
-0
-4
-4
-Resistor_SMD
-R_Array_Convex_2x0603
-Chip Resistor Network, ROHM MNR12 (see mnr_g.pdf)
-resistor array
-0
-4
-4
-Resistor_SMD
-R_Array_Convex_2x0606
-Precision Thin Film Chip Resistor Array, VISHAY (see http://www.vishay.com/docs/28770/acasat.pdf)
-resistor array
-0
-4
-4
-Resistor_SMD
-R_Array_Convex_2x1206
-Chip Resistor Network, ROHM MNR32 (see mnr_g.pdf)
-resistor array
-0
-4
-4
-Resistor_SMD
-R_Array_Convex_4x0402
-Chip Resistor Network, ROHM MNR04 (see mnr_g.pdf)
-resistor array
-0
-8
-8
-Resistor_SMD
-R_Array_Convex_4x0603
-Chip Resistor Network, ROHM MNR14 (see mnr_g.pdf)
-resistor array
-0
-8
-8
-Resistor_SMD
-R_Array_Convex_4x0612
-Precision Thin Film Chip Resistor Array, VISHAY (see http://www.vishay.com/docs/28770/acasat.pdf)
-resistor array
-0
-8
-8
-Resistor_SMD
-R_Array_Convex_4x1206
-Chip Resistor Network, ROHM MNR34 (see mnr_g.pdf)
-resistor array
-0
-8
-8
-Resistor_SMD
-R_Array_Convex_5x0603
-Chip Resistor Network, ROHM MNR15 (see mnr_g.pdf)
-resistor array
-0
-10
-10
-Resistor_SMD
-R_Array_Convex_5x1206
-Chip Resistor Network, ROHM MNR35 (see mnr_g.pdf)
-resistor array
-0
-10
-10
-Resistor_SMD
-R_Array_Convex_8x0602
-Chip Resistor Network, ROHM MNR18 (see mnr_g.pdf)
-resistor array
+John1175
+SOIC-16_3.9x9.9mm_P1.27mm
+SOIC, 16 Pin (JEDEC MS-012AC, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
 0
 16
 16
-Resistor_SMD
-R_Cat16-2
-SMT resistor net, Bourns CAT16 series, 2 way
-SMT resistor net Bourns CAT16 series 2 way
-0
-4
-4
-Resistor_SMD
-R_Cat16-4
-SMT resistor net, Bourns CAT16 series, 4 way
-SMT resistor net Bourns CAT16 series 4 way
+John1175
+SOP65P640X120-8N
+
+
 0
 8
 8
-Resistor_SMD
-R_Cat16-8
-SMT resistor net, Bourns CAT16 series, 8 way
-SMT resistor net Bourns CAT16 series 8 way
+John1175
+SOT-23
+SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
 0
-16
-16
-Resistor_SMD
-R_MELF_MMB-0207
-Resistor, MELF, MMB-0207, http://www.vishay.com/docs/28713/melfprof.pdf
-MELF Resistor
+3
+3
+John1175
+SOT-23-6
+6-pin SOT-23 package
+SOT-23-6
 0
-2
-2
-Resistor_SMD
-R_MicroMELF_MMU-0102
-Resistor, MicroMELF, MMU-0102, http://www.vishay.com/docs/28713/melfprof.pdf
-MicroMELF Resistor
+6
+6
+John1175
+SOT-23-6_Handsoldering
+6-pin SOT-23 package, Handsoldering
+SOT-23-6 Handsoldering
 0
-2
-2
-Resistor_SMD
-R_MiniMELF_MMA-0204
-Resistor, MiniMELF, MMA-0204, http://www.vishay.com/docs/28713/melfprof.pdf
-MiniMELF Resistor
-0
-2
-2
-Resistor_SMD
-R_Shunt_Ohmite_LVK12
-4 contact shunt resistor
-shunt resistor 4 contacts
+6
+6
+John1175
+SOT-223-3_TabPin2
+module CMS SOT223 4 pins
+CMS SOT
 0
 4
-4
-Resistor_SMD
-R_Shunt_Ohmite_LVK20
-4 contacts shunt resistor, https://www.ohmite.com/assets/docs/res_lvk.pdf
-4 contacts resistor smd
+3
+John1175
+SS-12F44G5
+
+
 0
-4
-4
-Resistor_SMD
-R_Shunt_Ohmite_LVK24
-4 contacts shunt resistor,https://www.ohmite.com/assets/docs/res_lvk.pdf
-4 contacts resistor smd
-0
-4
-4
-Resistor_SMD
-R_Shunt_Ohmite_LVK25
-4 contacts shunt resistor,https://www.ohmite.com/assets/docs/res_lvk.pdf
-4 contacts resistor smd
-0
-4
-4
-Resistor_SMD
-R_Shunt_Vishay_WSK2512_6332Metric_T1.19mm
-Shunt Resistor SMD 2512 (6332 Metric), 2.6mm thick, Vishay WKS2512, Terminal length (T) 1.19mm, 5 to 200 milli Ohm (http://http://www.vishay.com/docs/30108/wsk.pdf)
-resistor shunt WSK2512
-0
-4
-4
-Resistor_SMD
-R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm
-Shunt Resistor SMD 2512 (6332 Metric), 2.6mm thick, Vishay WKS2512, Terminal length (T) 2.21mm, 1 to 4.9 milli Ohm (http://http://www.vishay.com/docs/30108/wsk.pdf)
-resistor shunt WSK2512
-0
-4
-4
-Resistor_SMD
-R_Shunt_Vishay_WSK2512_6332Metric_T2.66mm
-Shunt Resistor SMD 2512 (6332 Metric), 2.6mm thick, Vishay WKS2512, Terminal length (T) 2.66mm, 0.5 to 0.99 milli Ohm (http://http://www.vishay.com/docs/30108/wsk.pdf)
-resistor shunt WSK2512
-0
-4
-4
-Resistor_SMD
-R_Shunt_Vishay_WSKW0612
-https://www.vishay.com/docs/30332/wskw0612.pdf
-4-Terminal SMD Shunt
-0
-4
-4
-Resistor_SMD
-R_Shunt_Vishay_WSR2_WSR3
-Power Metal Strip Resistors 0.005 to 0.2, https://www.vishay.com/docs/30101/wsr.pdf
-SMD Shunt Resistor
+5
+5
+John1175
+SW_SPST_FSMSM
+http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1437566-3&DocType=Customer+Drawing&DocLang=English
+SPST button tactile switch
 0
 2
 2
-Resistor_SMD
-R_Shunt_Vishay_WSR2_WSR3_KelvinConnection
-Power Metal Strip Resistors 0.005 to 0.2, https://www.vishay.com/docs/30101/wsr.pdf
-SMD Shunt Resistor
+John1175
+SW_SPST_PTS645
+C&K Components SPST SMD PTS645 Series 6mm Tact Switch
+SPST Button Switch
 0
 4
 2
+John1175
+SW_side
+
+
+0
+4
+4
+John1175
+Sunlord_SPH4012H220MT
+L_Coilcraft_XxL4040 https://www.coilcraft.com/pdfs/xal4000.pdf
+L Coilcraft XxL4040
+0
+2
+2
+John1175
+TF-012
+
+
+0
+13
+13
+John1175
+TP4056
+SOP, 8 Pin (http://www.macronix.com/Lists/Datasheet/Attachments/7534/MX25R3235F,%20Wide%20Range,%2032Mb,%20v1.6.pdf#page=79), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOP SO
+0
+9
+9
+John1175
+TestPoint_Pad_D1.5mm
+SMD pad as test Point, diameter 1.5mm
+test point SMD pad
+0
+1
+1
+John1175
+USB_C_Receptacle_HRO_TYPE-C-31-M-12
+USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
+usb usb-c 2.0 pd
+0
+20
+17
+John1175
+WQFN-24-1EP_4x4mm_P0.5mm_EP2.45x2.45mm
+WQFN, 24 Pin (http://www.ti.com/lit/ds/symlink/ts3a27518e.pdf#page=33), generated with kicad-footprint-generator ipc_noLead_generator.py
+WQFN NoLead
+0
+29
+25
+John1175
+XCVR_ESP32-WROVER-I
+
+
+0
+39
+39
