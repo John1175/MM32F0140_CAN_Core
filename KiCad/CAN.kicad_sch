@@ -5,7 +5,7 @@
   (paper "A4")
 
   (lib_symbols
-    (symbol "John1175:C" (pin_numbers hide) (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
+    (symbol "Library:C" (pin_numbers hide) (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 0.635 2.54 0)
         (effects (font (size 1.27 1.27)) (justify left))
       )
@@ -56,7 +56,7 @@
         )
       )
     )
-    (symbol "John1175:Conn_01x02" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+    (symbol "Library:Conn_01x02" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 0 2.54 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -101,7 +101,7 @@
         )
       )
     )
-    (symbol "John1175:R" (pin_numbers hide) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+    (symbol "Library:R" (pin_numbers hide) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 2.032 0 90)
         (effects (font (size 1.27 1.27)))
       )
@@ -140,7 +140,7 @@
         )
       )
     )
-    (symbol "John1175:TJA1040" (in_bom yes) (on_board yes)
+    (symbol "Library:TJA1040" (in_bom yes) (on_board yes)
       (property "Reference" "U" (at -10.16 8.89 0)
         (effects (font (size 1.27 1.27)) (justify left))
       )
@@ -469,10 +469,10 @@
     (uuid d79caa55-ac0e-4d9d-82d8-2f1084fb0165)
   )
 
-  (symbol (lib_id "John1175:Conn_01x02") (at 176.53 90.17 0) (unit 1)
+  (symbol (lib_id "Library:Conn_01x02") (at 176.53 90.17 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0ecd9aed-c5cd-42fc-ac10-7ae50ba05f11)
-    (property "Reference" "J4" (at 179.07 90.805 0)
+    (property "Reference" "J5" (at 179.07 90.805 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Conn_01x02" (at 179.07 93.345 0)
@@ -489,7 +489,7 @@
     (instances
       (project "MM32F0140_CAN_Core"
         (path "/325db86e-5883-4f53-9728-9eee822c47e5/12a3c03d-cab3-4bb3-bab8-c4b890760701"
-          (reference "J4") (unit 1)
+          (reference "J5") (unit 1)
         )
       )
     )
@@ -517,7 +517,7 @@
           (reference "#PWR020") (unit 1)
         )
         (path "/325db86e-5883-4f53-9728-9eee822c47e5/12a3c03d-cab3-4bb3-bab8-c4b890760701"
-          (reference "#PWR034") (unit 1)
+          (reference "#PWR037") (unit 1)
         )
       )
     )
@@ -545,13 +545,13 @@
           (reference "#PWR020") (unit 1)
         )
         (path "/325db86e-5883-4f53-9728-9eee822c47e5/12a3c03d-cab3-4bb3-bab8-c4b890760701"
-          (reference "#PWR035") (unit 1)
+          (reference "#PWR038") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "John1175:R") (at 144.78 86.36 0) (unit 1)
+  (symbol (lib_id "Library:R") (at 144.78 86.36 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 33bec8d3-6a3a-4c1c-a829-5e305dcb6247)
     (property "Reference" "R1" (at 144.78 82.55 0)
@@ -574,13 +574,13 @@
           (reference "R1") (unit 1)
         )
         (path "/325db86e-5883-4f53-9728-9eee822c47e5/12a3c03d-cab3-4bb3-bab8-c4b890760701"
-          (reference "R9") (unit 1)
+          (reference "R14") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "John1175:R") (at 77.47 91.44 0) (unit 1)
+  (symbol (lib_id "Library:R") (at 77.47 91.44 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no)
     (uuid 4f82da9b-c8df-4022-94fc-2d18cec799f4)
     (property "Reference" "R4" (at 77.47 87.63 0)
@@ -603,13 +603,13 @@
           (reference "R4") (unit 1)
         )
         (path "/325db86e-5883-4f53-9728-9eee822c47e5/12a3c03d-cab3-4bb3-bab8-c4b890760701"
-          (reference "R10") (unit 1)
+          (reference "R15") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "John1175:R") (at 144.78 96.52 0) (unit 1)
+  (symbol (lib_id "Library:R") (at 144.78 96.52 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 575d30fa-2983-48ae-9244-3b8d205560f2)
     (property "Reference" "R1" (at 144.78 92.71 0)
@@ -632,13 +632,13 @@
           (reference "R1") (unit 1)
         )
         (path "/325db86e-5883-4f53-9728-9eee822c47e5/12a3c03d-cab3-4bb3-bab8-c4b890760701"
-          (reference "R11") (unit 1)
+          (reference "R16") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "John1175:C") (at 100.33 72.39 0) (unit 1)
+  (symbol (lib_id "Library:C") (at 100.33 72.39 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 671fc033-da22-4879-8e69-07685c816350)
     (property "Reference" "C4" (at 100.33 69.85 0)
@@ -692,13 +692,13 @@
           (reference "#PWR022") (unit 1)
         )
         (path "/325db86e-5883-4f53-9728-9eee822c47e5/12a3c03d-cab3-4bb3-bab8-c4b890760701"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR033") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "John1175:TJA1040") (at 116.84 91.44 0) (unit 1)
+  (symbol (lib_id "Library:TJA1040") (at 116.84 91.44 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid be5bd1db-fdd0-4511-90ae-12a64a3574c1)
     (property "Reference" "U3" (at 118.7959 80.01 0)
@@ -755,7 +755,7 @@
           (reference "#PWR022") (unit 1)
         )
         (path "/325db86e-5883-4f53-9728-9eee822c47e5/12a3c03d-cab3-4bb3-bab8-c4b890760701"
-          (reference "#PWR032") (unit 1)
+          (reference "#PWR035") (unit 1)
         )
       )
     )
@@ -783,13 +783,13 @@
           (reference "#PWR020") (unit 1)
         )
         (path "/325db86e-5883-4f53-9728-9eee822c47e5/12a3c03d-cab3-4bb3-bab8-c4b890760701"
-          (reference "#PWR031") (unit 1)
+          (reference "#PWR034") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "John1175:R") (at 77.47 101.6 0) (unit 1)
+  (symbol (lib_id "Library:R") (at 77.47 101.6 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid df6f1291-395f-427a-9853-ae0ddc1fa0a0)
     (property "Reference" "R5" (at 77.47 97.79 0)
@@ -812,7 +812,7 @@
           (reference "R5") (unit 1)
         )
         (path "/325db86e-5883-4f53-9728-9eee822c47e5/12a3c03d-cab3-4bb3-bab8-c4b890760701"
-          (reference "R12") (unit 1)
+          (reference "R17") (unit 1)
         )
       )
     )
@@ -840,13 +840,13 @@
           (reference "#PWR020") (unit 1)
         )
         (path "/325db86e-5883-4f53-9728-9eee822c47e5/12a3c03d-cab3-4bb3-bab8-c4b890760701"
-          (reference "#PWR033") (unit 1)
+          (reference "#PWR036") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "John1175:C") (at 135.89 99.06 0) (unit 1)
+  (symbol (lib_id "Library:C") (at 135.89 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ff4e9e23-5d03-425c-b707-444898909f01)
     (property "Reference" "C4" (at 135.89 96.52 0)
