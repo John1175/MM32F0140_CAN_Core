@@ -2433,31 +2433,6 @@
     )
   )
 
-  (symbol (lib_id "power:VSS") (at 232.41 50.8 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 9ab79238-be11-4837-8587-7e35140b76a8)
-    (property "Reference" "#PWR03" (at 232.41 46.99 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "VSS" (at 232.41 55.88 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 232.41 50.8 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 232.41 50.8 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid dbcbcdb9-d59a-4b76-91f9-6836f8fc9d73))
-    (instances
-      (project "MM32F0140_CAN_Core"
-        (path "/325db86e-5883-4f53-9728-9eee822c47e5/db129a86-7470-478a-aca7-0df8b6c7306b"
-          (reference "#PWR03") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "power:+5V") (at 254 76.2 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9b1c84e5-931b-4994-a197-8ea542f772c3)
@@ -2536,6 +2511,34 @@
     )
   )
 
+  (symbol (lib_id "PCM_4ms_Power-symbol:GND") (at 232.41 50.8 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid b1bfb672-ae98-45b5-ab91-55a1dc10e0a1)
+    (property "Reference" "#PWR017" (at 232.41 57.15 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 232.41 55.88 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 232.41 50.8 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 232.41 50.8 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 9ebb34e4-c3c7-4170-8928-6a3a34c12282))
+    (instances
+      (project "MM32F0140_CAN_Core"
+        (path "/325db86e-5883-4f53-9728-9eee822c47e5/54f85c82-d980-44eb-a404-039b58a4cb77"
+          (reference "#PWR017") (unit 1)
+        )
+        (path "/325db86e-5883-4f53-9728-9eee822c47e5/db129a86-7470-478a-aca7-0df8b6c7306b"
+          (reference "#PWR03") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:+5V") (at 41.91 109.22 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b5e3765c-c03a-4ece-9a6e-bc6d36591650)
@@ -2559,34 +2562,6 @@
         )
         (path "/325db86e-5883-4f53-9728-9eee822c47e5/54f85c82-d980-44eb-a404-039b58a4cb77"
           (reference "#PWR015") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:VCC") (at 232.41 38.1 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid b6e2b642-b3ac-4c9e-8763-45769e28ad04)
-    (property "Reference" "#PWR08" (at 232.41 41.91 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "VCC" (at 232.41 34.29 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 232.41 38.1 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 232.41 38.1 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid aa5688e5-d556-42b9-bfab-b620b26476a2))
-    (instances
-      (project "MM32F0140_CAN_Core"
-        (path "/325db86e-5883-4f53-9728-9eee822c47e5/54f85c82-d980-44eb-a404-039b58a4cb77"
-          (reference "#PWR08") (unit 1)
-        )
-        (path "/325db86e-5883-4f53-9728-9eee822c47e5/db129a86-7470-478a-aca7-0df8b6c7306b"
-          (reference "#PWR02") (unit 1)
         )
       )
     )
@@ -2721,6 +2696,34 @@
       (project "MM32F0140_CAN_Core"
         (path "/325db86e-5883-4f53-9728-9eee822c47e5/db129a86-7470-478a-aca7-0df8b6c7306b"
           (reference "#PWR09") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:+5V") (at 232.41 38.1 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid d3c7df85-07bf-4a2b-b9bf-b1bcb273c73c)
+    (property "Reference" "#PWR02" (at 232.41 41.91 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "+5V" (at 232.41 34.29 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 232.41 38.1 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 232.41 38.1 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid e63e4d14-14ea-42ac-92c2-19a1e73484d9))
+    (instances
+      (project "MM32F0140_CAN_Core"
+        (path "/325db86e-5883-4f53-9728-9eee822c47e5/db129a86-7470-478a-aca7-0df8b6c7306b"
+          (reference "#PWR02") (unit 1)
+        )
+        (path "/325db86e-5883-4f53-9728-9eee822c47e5/54f85c82-d980-44eb-a404-039b58a4cb77"
+          (reference "#PWR07") (unit 1)
         )
       )
     )
